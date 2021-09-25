@@ -11,14 +11,14 @@
 <a href="https://github.com/azkafr/followers"><img title="Followers" src="https://img.shields.io/github/followers/azkafr?color=blue&style=flat-square"></a>
 <a href="https://github.com/azkafr/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/azkafr/Dark-Bot?color=red&style=flat-square"></a>
 <a href="https://github.com/azkafr/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/azkafr/Dark-Bot?color=red&style=flat-square"></a>
-<a href="https://github.com/azkafr/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Xinz-Team/XinzBot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/azkafr/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/azkafr/Dark-Bot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Xinz-Team/XinzBot#requirements">Requirements</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#instalasi">Installation</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#features">Features</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#thanks-to">Thanks to</a>
+  <a href="https://github.com/azkafr/Dark-Bot#requirements">Requirements</a> •
+  <a href="https://github.com/azkafr/Dark-Bot#instalasi">Installation</a> •
+  <a href="https://github.com/azkafr/Dark-Bot#features">Features</a> •
+  <a href="https://github.com/azkafr/Dark-Bot#thanks-to">Thanks to</a>
 </p>
 </div>
 
