@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/SenkuXZ" width="225" height="225"/>
+<img src="https://avatars.githubusercontent.com/DarkBot" width="225" height="225"/>
 </p>
 <p align="center">
 <a href="#"><img title="Dark BOT" src="https://img.shields.io/badge/SenkuXZ BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -15,7 +15,7 @@
 <a href="https://github.com/azkafr/Dark-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SenkuXZ/Bot-Wa?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
-   <a href="https://instagram.com/021Senkuu_"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>
+   <a href="https://instagram.com/azkafr2001"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>
 </P>
 
 
